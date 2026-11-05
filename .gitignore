@@ -1,0 +1,14 @@
+# build output
+build/
+build-*/
+
+# editor / tooling
+.cache/
+*.swp
+*.swo
+compile_commands.json
+
+# scratch
+*.log
+*.bak
+__pycache__/
