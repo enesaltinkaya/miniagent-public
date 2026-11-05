@@ -1,3 +1,15 @@
+------
+### Important Note  
+Not a single line was written by me or any other human.  
+Pure vibe ai slope.  
+After cloning it, ask your ai agent to review it, **check for security issues** and whatnot.  
+It is a coding agent, you might want to **instruct your ai agent to place some safe-guards**, for example dont allow certain bash commands like "rm -rf".  
+
+**I dont accept any responsibility if this makes your computer blow up.**  
+Licence is whatever you want it to be.  
+
+------
+
 # miniagent
 
 A small, self-contained AI coding agent written in C++20. One core, two frontends:
